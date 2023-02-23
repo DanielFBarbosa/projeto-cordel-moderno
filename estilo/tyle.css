@@ -44,13 +44,14 @@ header > p {
 }
 
 header a, footer a {
-    color:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bolder;
 }
 
 header a:hover, footer a:hover {
     text-decoration: underline;
+    color: rgb(64, 39, 4);
 }
 
 section {
@@ -102,5 +103,5 @@ footer {
     background-image: linear-gradient(to top, rgb(0, 0, 0), #ffb12b);
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 11px;
 }
