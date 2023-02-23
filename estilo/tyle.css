@@ -34,7 +34,7 @@ header {
 header > h1 {
     padding-top: 100px;
   /* font-variant: small-caps;*/
-   font-family: var(--fonte4);
+   font-family: var(--fonte3);
    font-size: 9vw;
    text-shadow: 1px 4px 0px  rgba(0, 0, 0, 0.718);
 }
